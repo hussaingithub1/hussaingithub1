@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hussaingithub1
-- 👀 I’m interested in Angular developer
-- 🌱 I’m currently learning angular 12
+- 👀 I’m interested in linux
+- 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
